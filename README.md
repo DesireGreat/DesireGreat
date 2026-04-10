@@ -68,5 +68,5 @@ Mobile app that displays websites inside an app using WebView.
 ---
 
 ## 📫 Connect With Me
-- Email: your-email-here
+- Email: akanksharatu@gmail.com, akanksharatu@outlook.com
 - GitHub: https://github.com/DesireGreat
